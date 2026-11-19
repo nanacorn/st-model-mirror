@@ -1,0 +1,10 @@
+{
+    "display_name": "Model Mirror (Vertex → AI Studio)",
+    "loading_order": 90,
+    "requires": [],
+    "optional": [],
+    "js": "index.js",
+    "css": "",
+    "author": "nanacorn",
+    "version": "1.0.0"
+}
